@@ -1,0 +1,6 @@
+{
+  "name": "SentinelOS X",
+  "description": "Stadium intelligence, crowd safety, predictive disaster prevention, live operational orchestration, and voice command center.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
